@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome to our IBM Cloud Code Engine Workshop](README.md)
 
