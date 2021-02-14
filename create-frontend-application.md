@@ -1,25 +1,28 @@
 # Create Frontend Application
 
-## Getting Super Powers
+## Create the Frontend Application using the CLI
 
-Becoming a super hero is a fairly straight forward process:
+1. Execute the following Command in the Cloud Shell
 
 ```
-$ give me super-powers
+ibmcloud code-engine application create \
+--name frontend --image ibmcom/frontend --min 1 
 ```
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+![](.gitbook/assets/image%20%2811%29.png)
 
-Once you're strong enough, save the world:
+2. Open the URL of the Frontend Applikation in a new Browser Tab
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
+![](.gitbook/assets/image%20%2814%29.png)
+
+## Optional - Scale the Frontend Application
+
+Enter the following commands to scale the application and get details of the application.
+
+```text
+ ibmcloud code-engine application update --name frontend --max-scale 3
+ ibmcloud code-engine application get -n frontend
 ```
-{% endcode %}
 
-
+![](.gitbook/assets/image%20%2812%29.png)
 
