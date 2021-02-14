@@ -1,4 +1,4 @@
-# Use IBM Cloud Object Storage for the Backend
+# Connect teh IBM Cloud Object Storage with the Backend Service
 
 ## Create an new IBM Cloud Object Storage Bucket
 

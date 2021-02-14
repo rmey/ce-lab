@@ -5,6 +5,6 @@
 * [Create Code Engine Project](create-code-engine-project.md)
 * [Create Frontend Application](create-frontend-application.md)
 * [Create and Connect Backend Service](create-and-connect-backend-service.md)
-* [Use IBM Cloud Object Storage for the Backend](use-ibm-cloud-object-storage-for-the-backend.md)
+* [Connect teh IBM Cloud Object Storage with the Backend Service](use-ibm-cloud-object-storage-for-the-backend.md)
 * [Create and test the Watson Text Analyser Job](create-and-test-the-watson-text-analyser-job.md)
 

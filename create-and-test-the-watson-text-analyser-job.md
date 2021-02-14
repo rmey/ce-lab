@@ -10,7 +10,9 @@ ibmcloud resource service-key-create <YOUR-UNIQUE-NLU-KEY-NAME> Manager --instan
 
 ![](.gitbook/assets/image%20%2824%29.png)
 
-## Create a Secret for COS and NLU for the Backend Job
+## Create a Secret for COS and Watson NLU Services for the Backend Job
+
+Adopt the following command in your editor of choice with your COS **bucket name** and **COS** **API key** \(from previous chapter\) and the Watson NLU and execute in Cloud Shell, this will create a file cos.env.
 
 
 
