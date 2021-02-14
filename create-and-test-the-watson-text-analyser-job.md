@@ -8,7 +8,7 @@ In our final chapter of the Tutorial we would like to create the Code Engine Job
 ibmcloud resource service-key-create <YOUR-UNIQUE-NLU-KEY-NAME> Manager --instance-name code-engine-nlu
 ```
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](.gitbook/assets/image%20%2827%29.png)
 
 ## Create a Secret for COS and Watson NLU Services for the Backend Job
 
@@ -25,7 +25,7 @@ COS_BUCKETNAME=<YOUR BUCKET NAME>
 EOF
 ```
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](.gitbook/assets/image%20%2828%29.png)
 
 Create the Secret for the Job in executing the command
 
@@ -33,7 +33,7 @@ Create the Secret for the Job in executing the command
 ibmcloud ce secret create -name nlu-secret --from-env-file nlu.env
 ```
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
 ## Create a Job Definition
 
@@ -53,7 +53,7 @@ Now we create a job run which will load the text files from the COS bucket, anal
 ibmcloud code-engine jobrun submit --name backend-jobrun --job backend-job
 ```
 
-![](.gitbook/assets/image%20%2832%29.png)
+![](.gitbook/assets/image%20%2833%29.png)
 
 ## Check the results in the Frontend Webapp
 
@@ -61,7 +61,7 @@ Refresh the page of the Frontend Application
 
 Your Text Files are now analysed - Congratulations!
 
-![](.gitbook/assets/image%20%2831%29.png)
+![](.gitbook/assets/image%20%2832%29.png)
 
 
 

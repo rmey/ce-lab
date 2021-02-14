@@ -24,7 +24,7 @@ ibmcloud resource service-key-create <YOUR-UNIQUE-KEY-NAME> Writer --instance-na
 
 We will receive an output and need to save the API Key for later use, see screenshot. You could copy the API Key to a text editor.
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 ## Create a Secret for the Backend Application
 
@@ -61,7 +61,7 @@ ibmcloud ce application update --name backend --env-from-secret cos-secret
 
 Navigate to your front-end application in the Browser and upload a text file with english language of your choice. See Screenshots below.
 
-![](.gitbook/assets/image%20%2829%29.png)
+![](.gitbook/assets/image%20%2830%29.png)
 
 ![](.gitbook/assets/image%20%2816%29.png)
 
