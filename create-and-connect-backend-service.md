@@ -15,7 +15,7 @@ The `--cluster-local` flag will instruct Code Engine to keep the endpoint for th
 
 2. Note the backend URL and save it for later use
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](.gitbook/assets/image%20%2827%29.png)
 
 ## Connect the Frontend with the Backend Service
 

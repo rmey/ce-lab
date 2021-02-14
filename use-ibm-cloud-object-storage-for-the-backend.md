@@ -61,7 +61,7 @@ ibmcloud ce application update --name backend --env-from-secret cos-secret
 
 Navigate to your front-end application in the Browser and upload a text file with english language of your choice. See Screenshots below.
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 ![](.gitbook/assets/image%20%2814%29.png)
 
