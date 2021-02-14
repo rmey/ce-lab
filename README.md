@@ -4,8 +4,6 @@ In this tutorial, you will learn about IBM Cloud™ Code Engine by deploying a t
 
 ![Example Application](.gitbook/assets/image.png)
 
-
-
 1. Developer creates a Code Engine project and deploys a frontend and a backend Code Engine application.
 2. Developer connects the frontend \(UI\) app to the backend by modifying the frontend application to set an environment variable value to point to the backend application's endpoint.
 3. Developer provisions the required cloud services and binds them to the backend application and jobs by creating secrets.
