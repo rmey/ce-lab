@@ -6,7 +6,7 @@
 ibmcloud ce project create -n <YOUR UNIQUE PROJECT NAME>
 ```
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 2. Connect to the Code Engine Project using the following command
 
@@ -26,7 +26,7 @@ $(ibmcloud ce project current | grep export)
 kubectl get po
 ```
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](.gitbook/assets/image%20%2818%29.png)
 
 {% hint style="info" %}
 You have now also connected kubectl Kubernetes CLI to your Code Engine project giving you access to deeper diagnostics functions.
