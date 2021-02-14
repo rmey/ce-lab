@@ -13,7 +13,7 @@ ibmcloud code-engine application create \
 
 2. Open the URL of the Frontend Applikation in a new Browser Tab
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
 ## Optional - Scale the Frontend Application
 
@@ -24,5 +24,5 @@ Enter the following commands to scale the application and get details of the app
  ibmcloud code-engine application get -n frontend
 ```
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 

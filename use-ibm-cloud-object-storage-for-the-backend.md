@@ -24,7 +24,7 @@ ibmcloud resource service-key-create <YOUR-UNIQUE-KEY-NAME> Writer --instance-na
 
 We will receive an output and need to save the API Key for later use, see screenshot. You could copy the API Key to a text editor.
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 ## Create a Secret for the Backend Application
 
@@ -39,7 +39,7 @@ COS_BUCKETNAME=<YOUR BUCKET NAME>
 EOF
 ```
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 Now we create a secret from the text file:
 
@@ -55,11 +55,13 @@ Finally we bind the Secret to the backend application.
 ibmcloud ce application update --name backend --env-from-secret cos-secret
 ```
 
-![](.gitbook/assets/image%20%2816%29.png)
+![](.gitbook/assets/image%20%2817%29.png)
 
 ## Testing the upload of text files
 
-Navigate to your front-end application in the Browser and upload a text file with english language of your choice. See Screenshots
+Navigate to your front-end application in the Browser and upload a text file with english language of your choice. See Screenshots below.
 
+![](.gitbook/assets/image%20%2825%29.png)
 
+![](.gitbook/assets/image%20%2814%29.png)
 
