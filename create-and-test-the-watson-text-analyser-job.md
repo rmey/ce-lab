@@ -25,5 +25,5 @@ COS_BUCKETNAME=<YOUR BUCKET NAME>
 EOF
 ```
 
-
+![](.gitbook/assets/image%20%2825%29.png)
 
