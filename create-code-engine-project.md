@@ -1,25 +1,30 @@
 # Create Code Engine Project
 
-## Getting Super Powers
+1. In the IBM Cloud Shell execute the following command to create a new code engine project:
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
+```text
+ibmcloud ce project create -n <YOUR UNIQUE PROJECT NAME>
 ```
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+![](.gitbook/assets/image%20%2811%29.png)
 
-Once you're strong enough, save the world:
+2. Connect to the Code Engine Project using the following command
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
+```text
+ibmcloud ce project select -n <YOUR UNIQUE PROJECT NAME>
 ```
-{% endcode %}
 
+3. Connect the kubectl CLI to the Knative Project of Code Engine
 
+```text
+$(ibmcloud ce project current | grep export) 
+```
+
+4. Check that kubectl works
+
+```text
+kubectl get po
+```
+
+![](.gitbook/assets/image%20%2812%29.png)
 
