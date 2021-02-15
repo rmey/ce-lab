@@ -28,7 +28,7 @@ We will receive an output and need to save the **COS API Key** in the form of "3
 
 ## Create a Secret for the Backend Application
 
-Adopt the following command in your editor of choice with your COS **bucket name** and **API key** and execute in Cloud Shell, this will create a file cos.env.
+Adopt the following command in your editor of choice with your **COS** **bucket name** and **COS** **API key** and execute in Cloud Shell, this will create a file cos.env.
 
 ```text
 cat << 'EOF' > cos.env
