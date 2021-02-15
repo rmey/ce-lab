@@ -10,3 +10,7 @@ In this tutorial, you will learn about IBM Cloud™ Code Engine by deploying a t
 4. User uploads a text file\(s\) via the frontend app that is stored in Object Storage through the backend application.
 5. User runs a Code Engine job via the backend to analyze text by pushing the text to Natural Language Understanding. The result is then saved to Object Storage and displayed in the frontend app when the user clicks the refresh button.
 
+![The example Application we will build](.gitbook/assets/image%20%2834%29.png)
+
+
+
