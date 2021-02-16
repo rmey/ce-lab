@@ -1,4 +1,4 @@
-# Create and test the Watson Text Analyser Job
+# 6. Create and test the Watson Text Analyser Job
 
 In our final chapter of the Tutorial we would like to create the Code Engine Job which analyses the uploaded text files with the IBM Cloud [Watson Natural Language Understanding](https://www.ibm.com/cloud/watson-natural-language-understanding) Service \(NLU\).
 
@@ -14,7 +14,7 @@ Please copy the **NLU API Key** in the form of "3zGZ07bpyUTRjOyE0YAYQeHA..." in 
 
 ## Create a Secret for COS and Watson NLU Services for the Backend Job
 
-Adopt the following command in your editor of choice with your COS **bucket name** and **COS** **API key** \(from previous chapter\) and the **Watson NLU API Key** and execute in Cloud Shell, this will create a file nlu.env.
+Adopt the following command in your editor of choice with your **COS** **bucket name** and **COS** **API key** \(from previous chapter\) to be able to connect the Job to the COS instance accessing the uploaded files. You also need add the **Watson NLU API Key** and execute the modified command below in the Cloud Shell, this will create a file nlu.env.
 
 ```text
 cat << 'EOF' > nlu.env
@@ -29,7 +29,7 @@ EOF
 
 ![](.gitbook/assets/image%20%2828%29.png)
 
-Create the Secret for the Job in executing the command
+Create the Secret for the Job in executing the command.
 
 ```text
 ibmcloud ce secret create -name nlu-secret --from-env-file nlu.env

@@ -1,4 +1,4 @@
-# Connect to IBM Cloud Account for Workshop
+# 1. Connect to IBM Cloud Account for Workshop
 
 ### Prerequisites
 
@@ -31,7 +31,7 @@ You should now connected to the following IBM Cloud Account:
 
 ![](.gitbook/assets/image%20%288%29.png)
 
-2. Open a IBM Cloud Shell Window, this will our Terminal in the Browser we use for exercises and commands.
+2. Open a IBM Cloud Shell Window, this will start our Terminal in the Browser, we use for exercises and commands, we don't need a local CLI.
 
 ![](.gitbook/assets/image%20%287%29.png)
 
