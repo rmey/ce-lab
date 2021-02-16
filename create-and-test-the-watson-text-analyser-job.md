@@ -57,6 +57,8 @@ ibmcloud code-engine jobrun submit --name backend-jobrun --job backend-job
 
 ![](.gitbook/assets/image%20%2833%29.png)
 
+You also see in the screenshot the capability to access the Code Engine project with usual kubectl commands to get access to lower level Kubernetes Objects. This is because Code Engine abstracts Kubernetes for the user at one time, but gives also access up to a certain degree if needed.  
+
 ## Check the results in the Frontend Webapp
 
 Refresh the page of the Frontend Application
