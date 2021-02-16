@@ -1,4 +1,4 @@
-# 2. Create Code Engine Project
+# Create Code Engine Project
 
 1. In the IBM Cloud Shell execute the following command to create a new code engine project:
 

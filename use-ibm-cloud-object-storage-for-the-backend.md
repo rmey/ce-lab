@@ -1,4 +1,4 @@
-# 5. Connect the IBM Cloud Object Storage with the Backend Service
+# Connect the IBM Cloud Object Storage with the Backend Service
 
 ## Create an new IBM Cloud Object Storage Bucket
 
@@ -22,13 +22,13 @@ We create now Service credential of our  Cloud Object Storage Service instance *
 ibmcloud resource service-key-create <YOUR-UNIQUE-KEY-NAME> Writer --instance-name code-engine-cos
 ```
 
-We will receive an output and need to save the **COS API Key** in the form of "3zGZ07bpyUTRjOyE0YAYQeHA....." for later use, see screenshot. You should copy the API Key to a text editor for later use in the next steps of the workshop.
+We will receive an output and need to save the API Key for later use, see screenshot. You could copy the API Key to a text editor.
 
 ![](.gitbook/assets/image%20%2824%29.png)
 
 ## Create a Secret for the Backend Application
 
-Adopt the following command in your editor of choice with your **COS** **bucket name** and **COS** **API key** and execute in Cloud Shell, this will create a file cos.env.
+Adopt the following command in your editor of choice with your COS **bucket name** and **API key** and execute in Cloud Shell, this will create a file cos.env.
 
 ```text
 cat << 'EOF' > cos.env

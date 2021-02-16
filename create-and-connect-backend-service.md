@@ -1,4 +1,4 @@
-# 4. Create and Connect Backend Service
+# Create and Connect Backend Service
 
 ## Create the Backend Service
 

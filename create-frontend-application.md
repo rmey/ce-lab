@@ -1,4 +1,4 @@
-# 3. Create Frontend Application
+# Create Frontend Application
 
 ## Create the Frontend Application using the CLI
 

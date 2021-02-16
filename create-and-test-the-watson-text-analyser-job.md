@@ -14,7 +14,7 @@ Please copy the **NLU API Key** in the form of "3zGZ07bpyUTRjOyE0YAYQeHA..." in 
 
 ## Create a Secret for COS and Watson NLU Services for the Backend Job
 
-Adopt the following command in your editor of choice with your **COS** **bucket name** and **COS** **API key** \(from previous chapter\) to be able to connect the Job to the COS instance accessing the uploaded files. You also need add the **Watson NLU API Key** and execute the modified command below in the Cloud Shell, this will create a file nlu.env.
+Adopt the following command in your editor of choice with your **COS** **bucket name** and **COS** **API key** \(from previous chapter\) to be able to connect the Job to the COS instance accessing the uploaded files, see here . You also need add the **Watson NLU API Key** and execute the modified command below in the Cloud Shell, this will create a file nlu.env.
 
 ```text
 cat << 'EOF' > nlu.env
