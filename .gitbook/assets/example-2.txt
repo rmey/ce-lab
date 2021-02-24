@@ -1,0 +1,46 @@
+LOUISVILLE, Ky. and CAMBRIDGE, Mass. – Feb. 11, 2021 – Humana Inc. (NYSE: HUM) and IBM (NYSE: IBM) Watson Health today announced a collaboration leveraging IBM’s conversational artificial intelligence (AI) solution – to help provide a better member experience while providing greater clarity and transparency on benefits and other related matters for Humana Employer Group members.
+
+Research indicates that consumers who do not understand how their health plan works or how to estimate out-of-pocket costs are more likely to delay or avoid essential care. Watson Assistant for Health Benefits aims to help address this issue by leveraging conversational AI to streamline the engagements between agents, employers, and Humana Employer Group members with clear and accurate information on benefits, healthcare costs and providers.
+
+As part of the agreement, Humana will deploy IBM Watson Assistant for Health Benefits, an AI-enabled virtual assistant built in the IBM Watson Health cloud. Initially, the service will be available to all of Humana’s 1.3 million Employer Group medical members, and 1.8 million of Humana’s Employer Group dental members. Watson Assistant for Health Benefits provides rapid, accurate and helpful information utilizing a conversational virtual assistant with member benefits, coverage, claims, referrals and healthcare costs for Humana Employer Group members, agents and employer-customers. The objective is the creation of a cloud native AI platform powered by IBM Watson with the conversational AI virtual assistant solution.
+
+“Humana is excited to team up with IBM Watson Health to help our employer-customers and their employees better manage their healthcare benefits and costs through a more innovative, personalized experience,” said Chris Hunter, Segment President of Humana’s Group and Military Business. “At Humana, we strive to use technology to better serve our members with simple and convenient healthcare experiences. By harnessing the power of artificial intelligence fused with embedded analytics in the Watson Health platform, we can help our employer-customers, members, agents and broker partners enhance their knowledge so they can all make more informed decisions.”
+
+“Navigating our health coverage without the right support can potentially serve as a barrier to care. An AI-enabled conversational agent that is trained to understand health plan benefits logic can play a role in helping to simplify complex or possibly confusing plan information,” said Paul Roma, General Manager, IBM Watson Health. “We are proud to support Humana in leading the effort to deploy conversational AI to help enhance and improve the consumer experience.”
+
+Humana and IBM plan to deploy Watson Assistant for Health Benefits to help many aspects of the Humana Employer Group member benefits experience, including:
+
+Addressing questions directly from members with speed, accuracy and personalized answers
+Assisting Humana employees and call center personnel to accurately answer questions quickly – helping to free up more time for customer care representatives to provide concierge-level customer service
+Using historical claims and provider data to calculate personalized cost estimates for medical services that can help Humana members better manage their healthcare spending
+The IBM Watson Assistant for Health Benefits solution is designed to understand the logic of health plan eligibility and incorporate it into the member conversation, enabling improved interaction with each member, and personalizing each answer to the Humana member based on his or her active or future health plan.
+
+About Humana
+
+Humana Inc. is committed to helping our millions of medical and specialty members achieve their best health. Our successful history in care delivery and health plan administration is helping us create a new kind of integrated care with the power to improve health and well-being and lower costs. Our efforts are leading to a better quality of life for people with Medicare, families, individuals, military service personnel, and communities at large.
+
+To accomplish that, we support physicians and other health care professionals as they work to deliver the right care in the right place for their patients, our members. Our range of clinical capabilities, resources and tools – such as in-home care, behavioral health, pharmacy services, data analytics and wellness solutions – combine to produce a simplified experience that makes health care easier to navigate and more effective.
+
+More information regarding Humana is available to investors via the Investor Relations page of the company’s web site at www.humana.com, including copies of:
+
+Annual reports to stockholders
+Securities and Exchange Commission filings
+Most recent investor conference presentations
+Quarterly earnings news releases and conference calls
+Calendar of events
+Corporate Governance information
+About IBM Watson Health
+
+IBM Watson Health is a data, analytics, and technology partner for the health industry. Supported by the innovation of IBM and intelligence of Watson, we are committed to helping build smarter health ecosystems. Through the combination of our deep industry expertise in health, data and analytics, actionable insights, and reputation for security and trust, Watson Health is working together with its clients and partners to help them achieve simpler processes, better care insights, faster breakthroughs, and improved experiences for people around the world. Learn more at www.ibm.com/watson-health.
+
+For more information about IBM visit, www.ibm.com. Statements regarding IBM's future direction and intent are subject to change or withdrawal without notice and represent goals and objectives only.
+
+Humana Media Contact:
+Alex Kepnes
+502-287-3567
+akepnes@humana.com
+
+IBM Watson Health Media Contact:
+Carolyn Castel
+857-337-0601
+carolyn.castel@ibm.com
